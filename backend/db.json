@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "descricao": "Nescau 500 g",
+      "preco": 12.99
+    },
+    {
+      "id": 2,
+      "descricao": "Caneta BIC Azul",
+      "preco": 7.98
+    },
+    {
+      "id": 3,
+      "descricao": "Caderno do Batman",
+      "preco": 12.30
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "nome": "Lívia Souza",
+      "dtnascimento": "16/05/2016"
+    },
+    {
+      "id": 2,
+      "nome": "Elton Souza",
+      "dtnascimento": "29/03/1983"
+    },
+    {
+      "id": 3,
+      "nome": "Paty Goes",
+      "dtnascimento": "24/11/1983"
+    }
+  ]
+}
